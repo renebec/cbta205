@@ -65,7 +65,7 @@ article {
   padding-left:5px;
   padding-bottom:2%;
   text-align: justify;
-  width: 100%;
+  width: 98%;
   background-color: #040404;
 }
 
@@ -83,7 +83,7 @@ footer {
 each other instead of next to each other, on small screens */
 @media (max-width: 700px) {
   nav, article, p, caption {
-    width: 100%;
+    width: 98%;
     height: auto;
   }
 }
