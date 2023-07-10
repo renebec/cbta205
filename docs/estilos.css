@@ -43,7 +43,7 @@ img {
   min-width: 20px;
   height:auto;
   background: #ccc;
-  padding-left: 10px;
+  padding-left: 0px;
   padding-bottom: 0px;
 
 }
@@ -65,7 +65,7 @@ article {
   padding-left:25px;
   padding-bottom:2%;
   text-align: justify;
-  width: 95%;
+  width: 96%;
   background-color: #040404;
 }
 
