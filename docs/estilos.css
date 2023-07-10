@@ -18,7 +18,7 @@ body {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 95%;
+  width: 90%;
 }
 
 .center2 {
@@ -33,7 +33,7 @@ body {
   float: left;
   width: 320px;
   background: #ccc;
-  padding-right: 20px;
+  padding-right: 40px;
   padding-left:20px;
 }
 
@@ -43,7 +43,7 @@ img {
   min-width: 20px;
   height:auto;
   background: #ccc;
-  padding-left: 0px;
+  padding-left: 10px;
   padding-bottom: 0px;
 
 }
@@ -53,7 +53,7 @@ img3 {
   min-width: 10px;
   height:auto;
   background: #ccc;
-  padding-left: 0px;
+  padding-left: 10px;
   padding-bottom: 0px;
 }
 
@@ -61,11 +61,11 @@ img3 {
 article {
   color: #C2C0C0;
   padding-top:10px;
-  padding-right: 5px;
-  padding-left:5px;
+  padding-right: 25px;
+  padding-left:25px;
   padding-bottom:2%;
   text-align: justify;
-  width: 98%;
+  width: 95%;
   background-color: #040404;
 }
 
@@ -83,7 +83,7 @@ footer {
 each other instead of next to each other, on small screens */
 @media (max-width: 700px) {
   nav, article, p, caption {
-    width: 98%;
+    width: 95%;
     height: auto;
   }
 }
